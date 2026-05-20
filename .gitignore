@@ -1,0 +1,1 @@
+node_modules/ ; echo .env ; echo dist/ ; echo build/ ; echo npm-debug.log* ; echo yarn-debug.log* ; echo yarn-error.log*
